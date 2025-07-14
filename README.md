@@ -13,8 +13,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 
 ---
@@ -23,7 +21,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamileGULER&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamileGULER&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamileGULER&theme=radical)
 
 ---
 
