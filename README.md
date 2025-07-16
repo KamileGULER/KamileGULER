@@ -8,7 +8,7 @@
 
 ## 🧰 Tech Stack:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+!(https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
