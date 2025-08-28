@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me :
 
-🛠 I’m currently working on a full-stack health platform using modern web technologies.     
+🛠 I’m currently working on quantum computing.    
 🌱 I’m currently learning Go, Node.js, and React.  
 ---
 
