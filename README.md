@@ -27,11 +27,10 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamileGULER&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamileGULER&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamileGULER&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KamileGULER&theme=radical)  
-  
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamileGULER&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamileGULER&layout=compact&theme=radical) |
+|---|---|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamileGULER&theme=radical) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KamileGULER&theme=radical) |
 
 ---
 
