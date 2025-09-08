@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/KamileGULER/KamileGULER/main/assets/KamileGULER.jpeg)
+
 # Hi there, I'm Kamile 👋
 
 ## 👩‍💻 About Me :
