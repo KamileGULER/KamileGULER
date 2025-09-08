@@ -27,17 +27,18 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YahyaZakryaKHAN&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaZakryaKHAN&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YahyaZakryaKHAN&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YahyaZakryaKHAN&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamileGULER&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamileGULER&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamileGULER&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KamileGULER&theme=radical)  
+  
 
 ---
 
 ## 📫 Contact Me
 
 - 📧 Email: kamile.guler32@gmail.com
-- 🌐 [Portfolio Website](https://your-website.com) 
+- 🌐 [Portfolio Website](https://kamileguler.github.io/kamileguler-web-page/) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamile-g%C3%BCler-b56580273/)  
 - 🧑‍💻 [GitHub](https://github.com/KamileGULER)
 
