@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/KamileGULER/KamileGULER/main/assets/Banner.jpg)
+![Banner](https://raw.githubusercontent.com/KamileGULER/KamileGULER/main/assets/Banner.png)
 
 # Hi there, I'm Kamile 👋
 
